@@ -9,7 +9,7 @@
 
 - 📫 How to reach me: **sethjacobbb@gmail.com**
 
-- ⚡ Fun fact: **I absolutely love writing researches, and deeply engrossed with fantasy novels, webtoons, and anime. Currently hyper-fixated on collecting Hirono ！**
+- ⚡ Fun fact (or rather facts): **I absolutely love writing researches, and deeply engrossed with fantasy novels, webtoons, and anime. Currently hyper-fixated on collecting Hirono ！**
 
 <h3 align="left">Languages and Tools:</h3>
 
