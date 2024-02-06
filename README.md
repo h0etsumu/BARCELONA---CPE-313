@@ -1,5 +1,5 @@
-<h1 align="center">Hola! I'm Jacob Barcelona! ᕙ(⇀‸↼‶)ᕗ </h1>
-<h3 align="center">your ENFJ-T local fantasy enjoyer !</h3>
+<h1 align="center">こんにちは！ I'm Jacob Barcelona ！ ᕙ(⇀‸↼‶)ᕗ </h1>
+<h3 align="center">your ENFJ-T local fantasy enjoyer ！</h3>
 
 <img align="right" width="500" src="https://qph.cf2.quoracdn.net/main-qimg-6ac854a953f07cb8df10b6a6bffc3759">
 
@@ -9,7 +9,7 @@
 
 - 📫 How to reach me: **sethjacobbb@gmail.com**
 
-- ⚡ Fun fact: **I absolutely love writing researches, and deeply engrossed with fantasy novels, webtoons, and anime. Currently hyper-fixated on collecting Hirono !**
+- ⚡ Fun fact: **I absolutely love writing researches, and deeply engrossed with fantasy novels, webtoons, and anime. Currently hyper-fixated on collecting Hirono ！**
 
 <h3 align="left">Languages and Tools:</h3>
 
